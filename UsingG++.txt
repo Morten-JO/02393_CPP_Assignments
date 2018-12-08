@@ -1,0 +1,7 @@
+cygwin:
+	-navigating to cdrive: cd /cygdrive/c
+	-listing directories: ls
+	-accessing folder with spaces: cd 'name name'
+g++ with cygwin:
+	-compiling basic program to .exe: g++ mainprogram.cpp -o exename
+	-compiling program with multiple libaries: g++ mainprogram.cpp -o exename libary1 libary2 libaryx
